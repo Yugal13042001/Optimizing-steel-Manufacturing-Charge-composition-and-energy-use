@@ -3,7 +3,7 @@
 Overview:-
 This project aims to enhance steel manufacturing by optimizing charge composition and reducing energy use, leading to improved efficiency and sustainability.
 
-Objectives"-
+Objectives:-
 Optimize charge composition for cost-efficiency.
 Reduce energy consumption in the steelmaking process.
 Lower the carbon footprint of production.
